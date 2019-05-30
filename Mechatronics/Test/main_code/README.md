@@ -5,7 +5,7 @@
 선 하나를 추출하는 코드
 
 ### TwoLineDetection
-양쪽 차선을 인식하는 영상처리 오픈소스 코드.
-#### reference
+양쪽 차선을 인식하는 영상처리 오픈소스 코드. 
+아래 두 링크 참조.
 https://github.com/windowsub0406/SelfDrivingCarND/tree/master/SDC_project_1
 https://m.blog.naver.com/windowsub0406/220894645729
