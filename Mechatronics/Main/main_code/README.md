@@ -1,21 +1,9 @@
-# Project
-## Hackerthon
-### Gokathon-2018
-When: 2018-08-11-Sat~2018-08-12-Sun
+### BottomLineDriving
+왼쪽, 오른쪽 선을 추출한 후, 둘 중에 더 아래에 있는 선으로 주행하는 코드
 
-Team: BlueWay
+### OneLineDriving
+선 하나를 추출해 주행하는 코드
 
-### AI_Hackerthon
-When: 2019-01-21-Mon ~ 2019-01-23-Wed
-
-Team: In Hello
-
-## Makerthon
-### Makerthon-2019
-When: 2019-01-31-Thu ~ 2019-02-01-Fri
-
-Team: JK Throlling
-
-## Internship
-### Mechatronics Lab
-When: 2019
+### OnePixelDriving
+픽셀 한줄만 읽어서 주행하는 코드.
+메카트로닉스 프로젝트에서 최종적으로 사용한 진짜 main 코드
